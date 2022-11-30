@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/scala101_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon/drugan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon/drugan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon/drugan/mercator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon/drugan/mercator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon/drugan/mercator/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon/drugan/mercator/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon/drugan/mercator/Scala 101.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon/drugan/mercator/Scala 101.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simon/drugan/mercator/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/simon.drugan/Documents/Scala/Scala101/target/scala-2.13/classes/simon/drugan/mercator/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
