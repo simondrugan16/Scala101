@@ -71,13 +71,12 @@ class Boat(val length: Int,
            val width: Int,
            val topSpeed: Int) {
   def isFasterThan(otherBoat: Boat): Boolean = {
-    if (this.topSpeed > otherBoat.topSpeed ){
+    if ( this.topSpeed > otherBoat.topSpeed ) {
       true
     } else {
       false
     }
   }
-
 }
 
 class SailBoat extends Boat(length = 40, width = 80, topSpeed = 15) {

@@ -1,7 +1,6 @@
 package simon.drugan.mercator
-package scalaNonWorksheets
 
-  ///////////////
+///////////////
   // Practical //
   ///////////////
 object Calculator {

@@ -32,7 +32,6 @@ object RatingCalculator {
   }
 }
 
-
 val age: List[Int] = List(0, 1, 3, 15, 10)
 
 for (element <- 1 to age.length) yield (age(element - 1), RatingCalculator.calculator(element - 1))
