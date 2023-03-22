@@ -1,9 +1,11 @@
-logs
-target
-/.bsp
-/.idea
-/.idea_modules
-/.classpath
-/.project
-/.settings
-/RUNNING_PID
+package model
+
+import play.api.libs.json.{Json, OFormat}
+
+case class GithubFile(name: String,
+                      `type`: String,
+                      content: String)
+
+object GithubFile {
+  implicit val format: OFormat[GithubFile] = Json.format[GithubFile]
+}
